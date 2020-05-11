@@ -31,4 +31,4 @@ Given an input image the MTCNN Model returns the Bounding Box coordinates and ot
 ]
 ```
 <br>
-These markers are recorded and marked over the WebCam feed using OpenCV library function. This model can detect multiple Faces within its frame. For more information on the model and its benchmarks against various inputs visit [this](https://github.com/ipazc/mtcnn) link.
+These markers are recorded and marked over the WebCam feed using OpenCV library function. This model can detect multiple Faces within its frame. For more information on the model and its benchmarks against various inputs visit https://github.com/ipazc/mtcnn.
